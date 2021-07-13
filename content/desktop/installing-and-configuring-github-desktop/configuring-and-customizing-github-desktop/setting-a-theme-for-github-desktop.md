@@ -1,3 +1,4 @@
+![91413988_10219463859180161_8721746807601758208_n](https://user-images.githubusercontent.com/87356218/125414069-d9dc75de-b120-4681-a319-6690f8ab7580.jpg)
 ---
 title: Setting a theme for GitHub Desktop
 intro: You can set a theme to customize the look and feel of GitHub Desktop.
